@@ -32,6 +32,6 @@ public class MainActivity extends AppCompatActivity {
                 imgEightBall.setImageResource(imageArray[rnd.nextInt(5)]);
             }
         });
-        
+
     }
 }
